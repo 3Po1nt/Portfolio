@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce49944c.css",
+    "main.js": "/static/js/main.90d0f269.js",
+    "static/media/Valedictorian.png": "/static/media/Valedictorian.71e1745f9ccc39133c4e.png",
+    "static/media/profile.jpg": "/static/media/profile.6f935cde7b3dc81676a2.jpg",
+    "static/media/plant-recognition.jpg": "/static/media/plant-recognition.9a2ff98007529387128b.jpg",
+    "static/media/logo.jpg": "/static/media/logo.f35d6d975e80d2ce2d29.jpg",
+    "static/media/product-management.jpg": "/static/media/product-management.4d09dd39048d58856f46.jpg",
+    "static/media/community-portal.jpg": "/static/media/community-portal.721476b84a396df7a53a.jpg",
+    "index.html": "/index.html",
+    "main.ce49944c.css.map": "/static/css/main.ce49944c.css.map",
+    "main.90d0f269.js.map": "/static/js/main.90d0f269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce49944c.css",
+    "static/js/main.90d0f269.js"
+  ]
+}
